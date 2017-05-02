@@ -9,7 +9,7 @@
 
 ## 深層学習基礎理論
 ### 1. Numpyの基礎
-**内容：Pythonと線形代数，行列・テンソル，数式と実装のブリッジ**
+**内容：Pythonと線形代数，行列・テンソル**
 - [introduction to numpy](https://github.com/rasbt/deep-learning-book/blob/master/code/appendix_f_numpy-intro/appendix_f_numpy-intro.ipynb?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_128)  
 「Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python 」を一通り．ノートブック形式は，[ここ](https://github.com/rasbt/deep-learning-book)
 
@@ -31,7 +31,7 @@
 - [KerasでMNIST](http://aidiary.hatenablog.com/entry/20161109/1478696865)
 
 
-### 4. Gradient Descent, Stochastic Gradient Descent, Optimizers
+### 4. Stochastic Gradient Descent, Optimizers
 **内容：各種Optimizers, 重みの初期化など**
 #### 4.1 オプティマイザー(最適化手法)
 #### 4.2 重みの初期化
