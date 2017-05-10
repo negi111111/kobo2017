@@ -16,22 +16,7 @@
 ### TA作業ログ
 - 深層学習グループ全体説明(5/11まで)
   - 初回までに作成．全体の方向性．目標の確認．
-- Numpyの基礎(5/18まで)
-  - Python文法
-  - Numpy
-- 実践演習１
-  - [言語処理100本ノック(1, 2, 3, 7章)](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
-  - Numpy(自作？)
-- 機械学習の基礎(6/1まで)
-- 実践演習２(機械学習)
-  - [言語処理100本ノック(8, 9, 10章)](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
-- Neural Network基礎(6/8まで)
-  - Perceptron+Feed Forward Network, Gradient Descent
-  - Stochastic Gradient Descent, Optimizers
-- 実践演習３(Neural Network)
-- CNN基礎
-  - 畳込み，プーリング(CNN1)
-  - Understanding and Visualizing CNN(CNN2)
-  - Traisfer Learning and Fine-tuning CNN(CNN3)
-- 実践演習４(CNN)
-- CNN応用
+- 深層学習２章
+- 深層学習３章
+- 深層学習４章
+- 深層学習５章
